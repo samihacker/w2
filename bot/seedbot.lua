@@ -211,16 +211,9 @@ function create_config( )
     "onservice",
     "Spammer (2) (2)",
     "Spammer (2)",
-    "Spammer (3)",
-    "XY (3)",
     "spam (2) (2)",
     "spam (4)",
-    "x&y (2)",
-    "tooti",
-    "XY2",
-    "XY3",
-    "XY4",
-    "XY5"
+    "tooti"
     },
     sudo_users = {122997453,99962736,174557407,116251654,212038539,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
