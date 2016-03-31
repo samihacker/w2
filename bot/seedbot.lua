@@ -213,7 +213,11 @@ function create_config( )
     "Spammer (2)",
     "spam (2) (2)",
     "spam (4)",
-    "tooti"
+    "tooti",
+    "plugins",
+    "xy",
+    "xy2",
+    "xy3"
     },
     sudo_users = {122997453,99962736,174557407,116251654,212038539,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
