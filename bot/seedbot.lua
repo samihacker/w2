@@ -217,6 +217,7 @@ function create_config( )
     	"spam2",
     	"xy",
     	"xy2",
+    	"xy3",
     	"tooti"
     },
     sudo_users = {122997453,212833120,207248520,125871286,0,tonumber(our_id)},--Sudo users
